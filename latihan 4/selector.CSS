@@ -1,0 +1,60 @@
+body {
+	background-color: white;
+	font-family: arial;
+    background-image:  url(aku3.jpg);
+	background-position:left bottom,  ;
+	background-repeat: no-repeat,  ;
+	padding: 100px;
+}
+h1, h2{
+	text-align: center;
+	color : green;
+	font-family: serif;
+	text-decoration: underline;
+
+}
+
+h2{
+	text-align: left;
+}
+ 
+ .p1{
+ 	color: pink;
+ 	text-indent: 2%;
+ 	font-size: 20px;
+ }
+
+ .p2{
+ 	color: pink;
+ 	text-indent: 2%;
+ 	font-size: 20px;
+ }
+ ul a, ol a{
+ 	color: #246620;
+ }
+
+.back {
+	background-image:  url(aku4.jpg);
+	background-position:left bottom ;
+	background-repeat: no-repeat;
+	padding: 100px;
+
+
+}
+
+.klik : link {
+	color: white;
+
+}
+.klik : hover {
+	font-family: arial;
+	font-size: 40px;
+	color: violet;
+
+}
+
+.klik:link {
+	font-size: 20px;
+	color: red;
+
+}

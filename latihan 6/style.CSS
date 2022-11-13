@@ -1,0 +1,12 @@
+div {
+	width: 200px;
+	height: 200px;
+	background-color: coral;
+	margin: 20px auto;
+	padding: 50px;
+	border-left : 3px dashed greenyellow;
+	border-right: 10px solid blak;
+	overflow: auto;
+/*border: width style color;
+untuk style : solid,dotted, dashed, dauble */
+}

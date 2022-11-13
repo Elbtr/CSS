@@ -1,0 +1,32 @@
+.hello:link {
+	color: orangered;
+}
+
+.hello:hover {
+	font-family: arial;
+	font-size: 20px;
+	color: white;
+}
+.hello:active {
+	font-style: italic;
+
+}
+
+.hello:visited {
+	color: violet;
+}
+
+li:nth-child(1n) a {
+	color: green;
+}
+li:nth-child(1n) a:hover {
+	color: black;
+}
+
+p:first-of-type {
+	color: orangered;
+}
+
+p:last-of-type {
+	color: orangered;
+}
